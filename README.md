@@ -51,9 +51,9 @@ Git • GitHub • VS Code • Render
 
 ## 📫 Connect With Me
 
-📧 Email: yourmail@gmail.com  
+📧 Email: sindhura.g08@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/gsindhura/ 
-💻 GitHub: github.com/sindhura082005  
+💻 GitHub:  https://github.com/sindhura082005/
 
 ---
 
