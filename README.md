@@ -1,124 +1,60 @@
-# Hi there 👋 I'm Sindhura
+# Hi 👋, I'm Sindhura
 
-🎓 B.Tech Student (Information Technology)  
 💻 Aspiring Software Development Engineer  
-📊 Passionate about Data Analytics, Backend Systems & Scalable APIs  
-🚀 Builder of production-ready ML & API systems  
+📊 Passionate about Data Analytics & Machine Learning  
+🚀 Backend-focused developer building scalable APIs  
 
 ---
 
-## 🚀 About Me
-
-I’m a developer focused on building scalable backend systems and data-driven applications.
-
-I enjoy working across the stack — from designing clean REST APIs to analyzing datasets and building machine learning pipelines.
-
-My interests lie at the intersection of:
-
-- Data Analytics & Machine Learning
-- Backend Development
-- System Design
-- Scalable API Architectures
-
-I believe strong engineering is about writing reliable, maintainable, and production-ready systems — not just code that works locally.
+## 🔭 Currently Working On
+- Improving deployed ML systems (PhishShield AI)
+- Backend API performance optimization
+- Data-driven project experimentation
 
 ---
 
-## 💻 Technical Skills
-
-### Programming
-- Python
-- Java
-- C
-- SQL
-
-### Backend & APIs
-- FastAPI
-- RESTful API Development
-- Uvicorn
-- JSON-based APIs
-
-### Data & ML
-- Pandas
-- NumPy
-- Scikit-learn
-- PyTorch
-- Data Cleaning & Feature Engineering
-- Model Evaluation (ROC-AUC, F1, Precision/Recall)
-
-### Databases
-- MySQL
-- SQL Query Optimization
-- Basic Schema Design
-
-### Tools
-- Git & GitHub
-- VS Code
-- Render (Deployment)
-- AWS (Basics)
+## 🌱 Currently Learning
+- Distributed Systems fundamentals  
+- Advanced System Design  
+- Cloud deployment strategies  
 
 ---
 
-## 📊 Data Analytics Interests
-
-I actively work on:
-
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Predictive Modeling
-- Feature Engineering
-- Performance Optimization
-- Model Threshold Tuning
-- Handling Imbalanced Datasets
-
-I enjoy extracting insights from structured data and converting them into deployable solutions.
+## 💬 Ask Me About
+- Python backend development  
+- FastAPI & REST API design  
+- Machine Learning pipelines  
+- Model evaluation (ROC-AUC, F1, Precision/Recall)  
+- Feature engineering  
+- SQL & database design  
 
 ---
 
-## 🏗️ Software Engineering Interests
+## 🛠️ Languages & Tools
 
-- Designing scalable backend systems
-- API security & validation
-- Clean architecture & modular code
-- Performance optimization
-- System design fundamentals
-- Trade-offs in distributed systems
+**Programming:**  
+Python • Java • C • SQL  
 
----
+**Backend & APIs:**  
+FastAPI • REST • Uvicorn  
 
-## 🚀 Highlight Project
+**Data & ML:**  
+Pandas • NumPy • Scikit-learn • PyTorch  
 
-### 🛡️ PhishShield AI
-Real-Time Phishing URL Detection System
+**Databases:**  
+MySQL  
 
-- Built ML model achieving 0.88 ROC-AUC
-- Engineered 15+ URL security features
-- Optimized threshold for recall improvement
-- Exposed via FastAPI REST API
-- Deployed live on Render
-
-🔗 Live Demo: https://phishshield-ai-hqoq.onrender.com/docs
+**Tools:**  
+Git • GitHub • VS Code • Render  
 
 ---
 
-## 📈 Currently Learning
+## 📫 Connect With Me
 
-- Advanced System Design
-- Distributed Systems Basics
-- Cloud Deployment Strategies
-- Data Engineering Concepts
-
----
-
-## 🤝 Let's Connect
-
-I’m open to:
-
-- SDE Internship Opportunities
-- Data Analytics Roles
-- Backend Development Projects
-- Open Source Contributions
+📧 Email: yourmail@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/gsindhura/ 
+💻 GitHub: github.com/sindhura082005  
 
 ---
 
-⭐ Always building. Always learning.
+⭐ Building scalable systems. Learning every day.
