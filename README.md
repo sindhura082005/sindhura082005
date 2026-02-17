@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sindhura
 
-🎓 B.Tech Student (Computer Science)  
+🎓 B.Tech Student (Information Technology)  
 💻 Aspiring Software Development Engineer  
 📊 Passionate about Data Analytics, Backend Systems & Scalable APIs  
 🚀 Builder of production-ready ML & API systems  
